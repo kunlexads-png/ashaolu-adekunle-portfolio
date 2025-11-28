@@ -67,7 +67,7 @@ const Contact: React.FC = () => {
                   <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/5 rounded-xl hover:bg-gray-800 hover:text-white text-gray-400 transition-all hover:-translate-y-1">
                     <Github size={20} />
                   </a>
-                  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/5 rounded-xl hover:bg-[#0077b5] hover:text-white text-gray-400 transition-all hover:-translate-y-1">
+                  <a href="https://linkedin.com/in/ashaolu-adeolu" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/5 rounded-xl hover:bg-[#0077b5] hover:text-white text-gray-400 transition-all hover:-translate-y-1">
                     <Linkedin size={20} />
                   </a>
                   <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-white/5 rounded-xl hover:bg-[#1DA1F2] hover:text-white text-gray-400 transition-all hover:-translate-y-1">
